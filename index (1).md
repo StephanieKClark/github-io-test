@@ -10,7 +10,7 @@ This lab teaches you how to integrate Azure OpenAI and Azure AI Services into ex
 
 ## Exercises
 
-This lab has exercises on:
+This lab has the following exercises:
 
 * Deploy app resources
 * Add chat with data
@@ -20,8 +20,6 @@ This lab has exercises on:
 * Generate a call summary
 * Perform compliance checks and vector search against transcripts
 * Orchestrate agents with Semantic Kernel
-
-The lab is available as GitHub pages [here](https://microsoft.github.io/TechExcel-Integrating-Azure-PaaS-and-AI-Services-for-AI-Design-Wins)
 
 ## Prerequisites
 
